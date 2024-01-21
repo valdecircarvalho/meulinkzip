@@ -1,2 +1,2 @@
 # meulinkzip
-MeuLink.zip
+MeuLink.zip - Uma alternativa ao LinkTree.
